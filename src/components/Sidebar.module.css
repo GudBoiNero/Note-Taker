@@ -1,0 +1,11 @@
+.Sidebar {
+    grid-row: 2/3;
+    @apply  
+        float-left w-48 h-full 
+        bg-white 
+        shadow-xl ;
+}
+
+.SidebarButton {
+    
+}
